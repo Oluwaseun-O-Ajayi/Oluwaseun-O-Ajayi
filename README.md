@@ -1,5 +1,5 @@
 # 👋 About Me
-I am Oluwaseun Ajayi, a Chemistry PhD Researcher at the University of Georgia, specializing in bioanalytical and material chemistry, structural biology, enzymology, molecular biology, glycobiology, and computer-aided drug design (CADD) for enzyme and therapeutic research. I develop and implement robust analytical and computational workflows for glycans, glycoproteins, antibodies, and complex biological systems, integrating high-resolution mass spectrometry, enzyme kinetics, structural biology, predictive modeling, and machine learning.
+I am Oluwaseun Ajayi, a Chemistry PhD Researcher at the University of Georgia, specializing in bioanalytical and materials chemistry, structural biology, enzymology, molecular biology, glycobiology, and computer-aided drug design (CADD) for enzyme and therapeutic research. I develop and implement robust, automated analytical and computational workflows for glycans, glycoproteins, antibodies, and complex biological systems, integrating high-resolution mass spectrometry, enzyme kinetics, structural biology, predictive modeling, and machine learning. My work emphasizes reproducibility, scalability, and data-driven decision-making, bridging experimental chemistry with software-enabled and automated laboratory workflows.
 
 ---
 
