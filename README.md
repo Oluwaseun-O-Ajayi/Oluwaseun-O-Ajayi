@@ -7,8 +7,8 @@ I am **Oluwaseun Ajayi**, a Chemistry PhD Candidate at the University of Georgia
 * Multiomics sample preparation and protein expression/purification
 * PLP-dependent enzyme characterization
 * High-performance liquid chromatography coupled with ion mobility mass spectrometry (HPLC-IM-MS)
-* Liquid chromatography-tandem mass spectrometry (LC-MS/MS)
-* High-resolution MS¹ profiling, Fast Protein Liquid Chromatography (FPLC), UV-Vis, Raman spectroscopy, and nuclear magnetic resonance spectroscopy
+* Liquid chromatography-tandem mass spectrometry (LC-MS/MS), Gas chromatography-mass spectrometry
+* High-resolution MS¹ profiling, Fast Protein Liquid Chromatography (FPLC), UV-Vis, FTIR, Raman spectroscopy, and nuclear magnetic resonance spectroscopy
 * Stopped-flow kinetics, X-ray crystallography, and cryo-electron microscopy workflows
 * High-throughput assay development and automated analytical workflows
 
