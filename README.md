@@ -42,7 +42,7 @@ Contributing to the deployment and operation of automated laboratory workcells f
 
 **Experimental:** HPLC-IM-MS, LC-MS/MS, FPLC, UV-Vis, Raman, NMR, X-ray crystallography, cryo-EM  
 **Computational & CADD:** Molecular docking, molecular dynamics simulations, MM/GBSA, virtual screening, ligand optimization, ADMET prediction, end-to-end computer-aided drug design workflows  
-**Workflow & Automation:** High-throughput assay development, automated analytical workflows, laboratory robotics, workcell control systems, experimental-computational integration, Python (PyQt5, pandas, NumPy), Git/GitHub
+**Workflow & Automation:** High-throughput assay development, automated analytical workflows, laboratory robotics, workcell control systems, experimental-computational integration, Python (PyQt5, pandas, NumPy), Git/GitHub, C, R
 
 ## 🤝 Collaboration
 
