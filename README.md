@@ -1,6 +1,7 @@
 # 👋 About Me
-PhD candidate bridging analytical chemistry, structural enzymology, computational drug design, and lab automation to build scalable, reproducible workflows for complex biological systems.
-Automation + Analytical Chemistry + Structural Enzymology + Computational Drug Design + Engineering
+**PhD candidate bridging analytical chemistry, structural enzymology, computational drug design, and lab automation to build scalable, reproducible workflows for complex biological systems.**
+
+**Automation + Analytical Chemistry + Structural Enzymology + Computational Drug Design + Engineering**
 
 I am **Oluwaseun Ajayi**, a Chemistry PhD candidate at the University of Georgia specializing in analytical chemistry, structural biology, enzymology, glycobiology, and computer-aided drug design. I develop reproducible analytical and computational workflows for glycans, glycoproteins, antibodies, and complex biological systems, integrating high-resolution mass spectrometry, enzyme kinetics, structural biology, predictive modeling, and automation. My work emphasizes scalability, reproducibility, and mechanistic insight, bridging experimental chemistry with computational and automated laboratory workflows.
 
