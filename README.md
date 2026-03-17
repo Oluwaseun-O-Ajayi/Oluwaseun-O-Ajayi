@@ -49,8 +49,11 @@ Contributing to laboratory automation infrastructure for biotherapeutic developm
 ## 🛠️ Tech Stack
 
 **Experimental**: HPLC-IM-MS, LC-MS/MS, GC-MS, FPLC, UV-Vis, Raman, NMR, X-ray crystallography, cryo-EM
+
 **Computational & CADD**: Molecular docking, molecular dynamics, MM/GBSA, QSAR modeling, chemoinformatics, virtual screening, ligand optimization, ADMET prediction
+
 **Automation & Engineering**: Laboratory robotics, high throughput workflow orchestration, automated analytical pipelines, workcell control systems, CAD design, 3D printing, additive manufacturing
+
 **Programming & Data**: Python (PyQt5, pandas, NumPy), R, C++, C#, JavaScript, FORTRAN, Git/GitHub
 
 ## 🤝 Collaboration
