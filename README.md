@@ -62,5 +62,7 @@ I am interested in collaborative research across biotechnology, pharmaceuticals,
 
 ## 📫 Contact
 **Email:** seunolanikeajayi@gmail.com  
+
 **LinkedIn:** [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-o-ajayi-b-sc-mrsc/)
+
 **GitHub:** [@Oluwaseun-O-Ajayi](https://github.com/Oluwaseun-O-Ajayi)
