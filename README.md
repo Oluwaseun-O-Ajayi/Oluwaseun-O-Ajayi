@@ -33,19 +33,6 @@ I integrate high-resolution mass spectrometry, enzyme kinetics, structural biolo
 • Workflow automation, reproducible pipelines, and high-throughput analysis
 • Laboratory robotics and scalable experimental workflows
 
-## 🚀 Current Role
-
-**Lab Automation Co-op, Cell Engineering and Analytical Sciences  
-Johnson & Johnson Innovative Medicine**
-
-Contributing to laboratory automation infrastructure for biotherapeutic development, including:
-
-• Robotic workcell integration and automated sample transport
-• Control logic configuration and multi-instrument orchestration
-• High throughput workflow development and optimization
-• CAD-based mechanical design, rapid prototyping, and 3D printing of lab automation components
-• Integration of liquid handling platforms with analytical pipelines and computational workflows
-
 ## 🛠️ Tech Stack
 
 **Experimental**: HPLC-IM-MS, LC-MS/MS, GC-MS, FPLC, UV-Vis, Raman, NMR, X-ray crystallography, cryo-EM
