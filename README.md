@@ -1,4 +1,4 @@
-# 👋 About Me
+# About Me
 **PhD candidate bridging analytical chemistry, structural enzymology, computational drug design, and lab automation to build scalable, reproducible workflows for complex biological systems.**
 
 **Automation + Analytical Chemistry + Structural Enzymology + Computational Drug Design + Engineering**
@@ -7,7 +7,7 @@ I am **Oluwaseun Ajayi**, a Chemistry PhD candidate at the University of Georgia
 
 I integrate high-resolution mass spectrometry, enzyme kinetics, structural biology, and predictive modeling to connect experimental chemistry with automated and software-enabled laboratory workflows.
 
-## 🔬 Experimental Expertise
+## Experimental Expertise
 
 • Multiomics sample preparation and protein expression/purification
 • Enzyme characterization and kinetic analysis
@@ -16,7 +16,7 @@ I integrate high-resolution mass spectrometry, enzyme kinetics, structural biolo
 • Stopped-flow kinetics, X-ray crystallography, and cryo-EM workflows
 • High throughput assay development and automated analytical workflows
 
-## 💻 Computational & CADD Expertise
+## Computational & CADD Expertise
 
 • Computer-aided drug design for enzymes and therapeutics
 • Molecular docking and molecular dynamics simulations
@@ -26,16 +26,16 @@ I integrate high-resolution mass spectrometry, enzyme kinetics, structural biolo
 • ADMET prediction and predictive modeling
 • Integration of computational modeling with experimental biochemical data
 
-## ⚙️ Research Focus
+## Research Focus
 
 • Mechanistic studies of enzymes and biomolecular systems
 • Integration of analytical chemistry, structural enzymology, and computational modeling
 • Workflow automation, reproducible pipelines, and high-throughput analysis
 • Laboratory robotics and scalable experimental workflows
 
-## 🚀 Current Role
+## Current Role
 
-**Lab Automation Co-op, Cell Engineering and Analytical Sciences  
+**Spring TDS Proteins API CEAS Automation Co-Op, Cell Engineering and Analytical Sciences  
 Johnson & Johnson Innovative Medicine**
 
 Contributing to laboratory automation infrastructure for biotherapeutic development, including:
@@ -46,7 +46,7 @@ Contributing to laboratory automation infrastructure for biotherapeutic developm
 • CAD-based mechanical design, rapid prototyping, and 3D printing of lab automation components
 • Integration of liquid handling platforms with analytical pipelines and computational workflows
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Experimental**: HPLC-IM-MS, LC-MS/MS, GC-MS, FPLC, UV-Vis, Raman, NMR, X-ray crystallography, cryo-EM
 
@@ -56,11 +56,11 @@ Contributing to laboratory automation infrastructure for biotherapeutic developm
 
 **Programming & Data**: Python (PyQt5, pandas, NumPy), R, C++, C#, JavaScript, FORTRAN, Git/GitHub
 
-## 🤝 Collaboration
+## Collaboration
 
 I am interested in collaborative research across biotechnology, pharmaceuticals, analytical chemistry, and automation-driven laboratory systems. I work at the interface of experimental chemistry, computational modeling, and engineering to develop scalable, reproducible solutions for complex biological and chemical problems.
 
-## 📫 Contact
+## Contact
 **Email:** seunolanikeajayi@gmail.com  
 
 **LinkedIn:** [Oluwaseun Ajayi](https://www.linkedin.com/in/oluwaseun-o-ajayi-b-sc-mrsc/)
