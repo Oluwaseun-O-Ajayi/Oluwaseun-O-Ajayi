@@ -35,7 +35,8 @@ I integrate high-resolution mass spectrometry, enzyme kinetics, structural biolo
 
 ## Current Role
 
-**Spring TDS Proteins API CEAS Automation Co-Op, Cell Engineering and Analytical Sciences  
+**Spring TDS Proteins API CEAS Automation Co-Op,
+Cell Engineering and Analytical Sciences, 
 Johnson & Johnson Innovative Medicine**
 
 Contributing to laboratory automation infrastructure for biotherapeutic development, including:
