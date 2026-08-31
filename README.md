@@ -11,6 +11,8 @@ I am Oluwaseun Ajayi, a Chemistry PhD candidate at the University of Georgia spe
 
 My work focuses on connecting experimental chemistry with computational and automated approaches to improve analytical throughput, scalability, and mechanistic understanding.
 
+## My Website: https://oluwaseun-o-ajayi.github.io/my-website/
+
 ## Experimental Expertise
 
 • Glycoproteomics and multiomics sample preparation
